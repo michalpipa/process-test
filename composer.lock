@@ -1,0 +1,11 @@
+{
+    "hash": "1659d6a14591b2c114c92adf268f8847",
+    "packages": [
+        {
+            "package": "symfony/process",
+            "version": "dev-master",
+            "source-reference": "6aceac404d8574cf7da57e7e29b00a665b7bd559"
+        }
+    ],
+    "aliases": []
+}
